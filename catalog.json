@@ -1,0 +1,125 @@
+{
+  "shop": {
+    "name": "Coralia",
+    "tagline": "Build your own charm bracelet or necklace",
+    "currency": "₱",
+    "contact": "Send your order image to us on Instagram: @coralia.charms",
+    "deliveryNote": "Delivery is optional. If you choose delivery, the delivery fee is paid by the customer and will be confirmed by us."
+  },
+  "chains": [
+    {
+      "id": "ch1",
+      "name": "Dainty Curb Chain Bracelet",
+      "type": "Bracelet",
+      "price": 350,
+      "desc": "Everyday stainless chain, 16–20 cm adjustable.",
+      "emoji": "📿",
+      "img": "",
+      "available": true
+    },
+    {
+      "id": "ch2",
+      "name": "Paperclip Chain Bracelet",
+      "type": "Bracelet",
+      "price": 420,
+      "desc": "Trendy paperclip links with a lobster clasp.",
+      "emoji": "⛓️",
+      "img": "",
+      "available": true
+    },
+    {
+      "id": "ch3",
+      "name": "Classic Cable Necklace",
+      "type": "Necklace",
+      "price": 480,
+      "desc": "Delicate cable chain, 40–45 cm adjustable.",
+      "emoji": "💎",
+      "img": "",
+      "available": true
+    },
+    {
+      "id": "ch4",
+      "name": "Chunky Link Necklace",
+      "type": "Necklace",
+      "price": 560,
+      "desc": "Bolder links that make your charms pop.",
+      "emoji": "🔗",
+      "img": "",
+      "available": true
+    }
+  ],
+  "charms": [
+    {
+      "id": "cm1",
+      "name": "Heart",
+      "price": 80,
+      "emoji": "🤍",
+      "img": "",
+      "standard": true,
+      "available": true
+    },
+    {
+      "id": "cm2",
+      "name": "Star",
+      "price": 80,
+      "emoji": "⭐",
+      "img": "",
+      "standard": true,
+      "available": true
+    },
+    {
+      "id": "cm3",
+      "name": "Moon",
+      "price": 80,
+      "emoji": "🌙",
+      "img": "",
+      "standard": true,
+      "available": true
+    },
+    {
+      "id": "cm4",
+      "name": "Butterfly",
+      "price": 80,
+      "emoji": "🦋",
+      "img": "",
+      "standard": true,
+      "available": true
+    },
+    {
+      "id": "cm5",
+      "name": "Pearl",
+      "price": 120,
+      "emoji": "🫧",
+      "img": "",
+      "standard": false,
+      "available": true
+    },
+    {
+      "id": "cm6",
+      "name": "Evil Eye",
+      "price": 100,
+      "emoji": "🧿",
+      "img": "",
+      "standard": false,
+      "available": true
+    },
+    {
+      "id": "cm7",
+      "name": "Initial Letter",
+      "price": 150,
+      "emoji": "🔤",
+      "img": "",
+      "standard": false,
+      "available": true
+    },
+    {
+      "id": "cm8",
+      "name": "Birthstone Gem",
+      "price": 180,
+      "emoji": "💠",
+      "img": "",
+      "standard": false,
+      "available": true
+    }
+  ]
+}
